@@ -1,5 +1,5 @@
-# The largest heading (an <h1> tag)
-## The second largest heading (an <h2> tag)
+# The largest <h1>
+## The second largest <h2>
 …
 ###### The 6th largest heading (an <h6> tag)
 
